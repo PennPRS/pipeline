@@ -15,7 +15,7 @@
     install.packages(c('optparse','bigreadr','readr','stringr', 'caret', 'SuperLearner', 'glmnet', 'MASS', 'Rcpp', 'RcppArmadillo', 'inline', 'doMC', ‘foreach'))
 
 
-# Use PennPrs
+# Use PennPRS
 
 These are two scripts, single_ancestry and multi_ancestry.
 
