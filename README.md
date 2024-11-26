@@ -1,21 +1,24 @@
 
 # PennPRS Offline Pipeline 
 
-1. Download LD data
+Preparing datasets and packages 
+
+1. Download LD reference panels
+   
 	1KGref_plinkfile
 	LD_1kg
 	LDpred2_lassosum2_corr_1kg
 
-2. Download MAF data
+3. Download MAF data
 
-3. Download plink from 
+4. Download plink from 
 
-4. Launch R and install required libraries
+5. Launch R and install required libraries
 
     install.packages(c('optparse','bigreadr','readr','stringr', 'caret', 'SuperLearner', 'glmnet', 'MASS', 'Rcpp', 'RcppArmadillo', 'inline', 'doMC', ‘foreach'))
 
 
-# Use PennPRS
+# Use the pipeline 
 
 These are two scripts, single_ancestry and multi_ancestry.
 
