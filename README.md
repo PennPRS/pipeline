@@ -1,5 +1,5 @@
 
-# Getting started
+# PennPRS Offline Pipeline 
 
 1. Download LD data
 	1KGref_plinkfile
